@@ -418,7 +418,7 @@ local function KFEZLAS_script() -- hint.Script
 
 	script.Parent.MouseButton1Click:Connect(function()
 		local m = Instance.new("Hint", game.workspace)
-		m.Text = "team  tubers93 join today!"
+		m.Text = "team  tubers93!Script by AndreyHelloKitty!"
 	end)
 end
-coroutine.wrap(KFEZLAS_script)()
+coroutine.wrap(Andrey_script)()
